@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+🌍  I'm currently pursuing Mathematics and Computing Engineering at Indian Institute of Technology Dhanbad.
+✉️  You can reach me at ayushjha145@gmail.com
+👀 I enjoy doing Competitive Programming and DSA.
+🧠  I'm currently learning Machine Learning and Data Science.
+🌱 I’m looking to collaborate on open-source projects.
 <!--
 **ayush-145/ayush-145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
